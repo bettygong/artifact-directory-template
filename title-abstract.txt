@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Causal Inference in Recommender System: Manipulating Popularity Bias
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The prevalence of popularity bias in recommender systems contributes to the promotion of globally popular items, diminishing the diversity of recommended products and suppressing personalized selections. This bias acts as a confounding factor in the intricate relationship between items and user interactions. As the recommender system continues to prioritize popular items, it reinforces their promotion to users, amplifying the bias in a self-reinforcing loop. This project places users as a central stakeholder in recommender system applications, aiming to diversify the presented products for a more individualized experience. We introduce two distinct approaches to address popularity bias. The Popularity-bias De-confounding and Adjusting (PDA) model enables control over the strength of popularity bias. The Disentangling Interest and Conformity with Causal Embedding (DICE) model captures causes separately to be integrated into RecSys. This paper discusses the utilization of popularity bias, from which it aims to eliminate product homogeneity and enhance personalization. 
